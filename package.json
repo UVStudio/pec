@@ -7,6 +7,7 @@
     "start": "node server",
     "server": "nodemon server"
   },
+  "_comment": "npm run server",
   "author": "",
   "license": "ISC",
   "dependencies": {
