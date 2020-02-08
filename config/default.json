@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Leonard:Horvat53@peccluster1-oyiex.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Leonard:Horvat53@peccluster1-oyiex.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
