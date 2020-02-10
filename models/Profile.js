@@ -41,7 +41,7 @@ const ProfileSchema = new mongoose.Schema({
       location: {
         type: String
       },
-      from: {
+      startDate: {
         type: Date,
         required: true
       },
@@ -71,7 +71,7 @@ const ProfileSchema = new mongoose.Schema({
         type: String,
         required: true
       },
-      from: {
+      startDate: {
         type: Date,
         required: true
       },
